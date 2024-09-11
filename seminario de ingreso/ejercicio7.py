@@ -1,0 +1,1 @@
+print(10/0) #sale un error llamado zerodivisionerror, ya que no se puede dividir por cero

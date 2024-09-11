@@ -1,0 +1,1 @@
+print(10%2) #da cero ya que el resultado es dos veces 5, entonces no hay sobrante
